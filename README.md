@@ -80,7 +80,8 @@ The final page is dedicated to trend analysis, highlighting different trends in 
 ## Detailed Insights Explanation:
 
 ### Page-One:
-![Uploading Screenshot 2024-06-01 073237.jpg…]()
+![Screenshot 2024-06-01 073237](https://github.com/user-saddam123/Medicine-Sales-Analysis/assets/123800896/da7d57ff-84c2-418a-b797-bbd2a9aacc1b)
+
 
 This page provides a comprehensive overview of the overall sales performance, designed to give stakeholders a clear and detailed understanding of key metrics and trends. The page is structured as follows:
 
@@ -116,4 +117,35 @@ This analysis helps in understanding customer behavior and identifying key custo
 
 #
 
+### Page-Two
+![Screenshot 2024-06-01 073354](https://github.com/user-saddam123/Medicine-Sales-Analysis/assets/123800896/42c9ddc0-12cf-4ab5-9796-af5591932e0e)
 
+This page provides in-depth insights into customer demographics and their contribution to sales and revenue. The layout and visualizations are designed to help stakeholders understand customer behavior and demographic trends effectively. The key elements of this page are:
+
+#### Key Performance Indicators (KPIs):
+Important KPIs are displayed at the top, offering a quick overview of customer-related metrics:
+
+ * Total Customers: The total number of unique customers.
+ * Average Revenue per Customer: The average revenue generated per customer.
+ * Total Revenue: The total revenue generated.
+
+#### Sales by Country Map Chart:
+ * A map chart is provided to display sales distribution by country.
+ * Users can interact with this chart to view detailed sales data for each country by using the provided bookmarks.
+
+#### Revenue by Gender Doughnut Chart:
+ * This chart shows the percentage of revenue contributed by each gender.
+ * It helps in understanding gender-wise revenue distribution and identifying key customer segments.
+
+#### Revenue by Buyer Type:
+ * A visual representation of revenue generated from different types of buyers (Sellers vs. Users).
+ * This helps in determining the contribution of each buyer type to the overall revenue.
+
+#### Revenue by Age Group:
+ * A visualization that displays revenue distribution across different age groups.
+ * This provides insights into which age groups are the most profitable and helps in targeted marketing efforts.
+
+#
+
+### Page Three:
+![Uploading Screenshot 2024-06-01 073421.jpg…]()
