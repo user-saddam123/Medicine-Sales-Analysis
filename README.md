@@ -180,7 +180,7 @@ For a detailed understanding and interactive experience, please visit the live d
 #
 
 
-**This project is the result of over 5-7 days of hard work, and I invite you to 👍 like, share, and connect with me on [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/).**
+**This project is the result of over 7-10 days of hard work, and I invite you to 👍 like, share, and connect with me on [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/).**
 
 I hope scrolling through this project provides you with insightful understanding.
 
@@ -190,7 +190,7 @@ Thank you for taking the time to view my project.
 
 ## How you can help me:
 
-I've successfully completed over 55 Power BI projects, all showcased in my [Novypro portfolio](https://www.novypro.com/profile_projects/saddamansari). You're all invited to visit my portfolio and explore these amazing projects!
+I've successfully completed over **65 Power BI projects**, all showcased in my [Novypro portfolio](https://www.novypro.com/profile_projects/saddamansari). You're all invited to visit my portfolio and explore these amazing projects!
 
 **Additionally, I'm currently seeking internship or entry-level opportunities. If you have any opportunities available or need a freelance Power BI project completed, please connect with me on LinkedIn.**
 
