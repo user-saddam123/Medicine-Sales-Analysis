@@ -148,4 +148,58 @@ Important KPIs are displayed at the top, offering a quick overview of customer-r
 #
 
 ### Page Three:
-![Uploading Screenshot 2024-06-01 073421.jpg…]()
+![Screenshot 2024-06-01 073421](https://github.com/user-saddam123/Medicine-Sales-Analysis/assets/123800896/7abd6c3f-3bda-4f56-b814-14b79902ead5)
+
+The third page of the dashboard focuses on analyzing various sales and revenue trends over different time periods. This page is essential for understanding how sales performance changes over time and identifying patterns that can inform future strategies. The key components of this page are:
+
+#### Key Performance Indicator (KPI):
+ * **Total Transactions**: A KPI at the top of the page showing the total number of transactions.
+
+#### Revenue by Year Line Chart:
+ * A line chart that displays the revenue on a yearly basis.
+ * This visualization helps in understanding the annual revenue trends.
+
+#### Revenue by Quarter Line Chart:
+ * Another line chart that shows the revenue broken down by quarters.
+ * It provides insights into quarterly revenue performance, helping to identify seasonal trends.
+
+#### Revenue by Month Line Chart:
+ * This line chart illustrates the monthly revenue.
+ * It helps in tracking the revenue performance on a month-to-month basis.
+
+#### Monthly Growth Percentage:
+ * A visual representation of the percentage growth from the previous month to the current month.
+ * This metric is crucial for understanding the monthly growth rate and identifying any significant changes in revenue.
+
+#### Weekly Trend by Medicine Sales:
+ * This visualization shows the sales trends of the top 5 drugs on a weekly (day-wise) basis.
+ * It helps in identifying which medicines are sold the most on specific days of the week.
+
+For a detailed understanding and interactive experience, please visit the live dashboard.
+
+#
+
+
+**This project is the result of over 5-7 days of hard work, and I invite you to 👍 like, share, and connect with me on [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/).**
+
+I hope scrolling through this project provides you with insightful understanding.
+
+Thank you for taking the time to view my project.
+
+#
+
+## How you can help me:
+
+I've successfully completed over 55 Power BI projects, all showcased in my [Novypro portfolio](https://www.novypro.com/profile_projects/saddamansari). You're all invited to visit my portfolio and explore these amazing projects!
+
+**Additionally, I'm currently seeking internship or entry-level opportunities. If you have any opportunities available or need a freelance Power BI project completed, please connect with me on LinkedIn.**
+
+Looking forward to connecting with you all!
+
+#
+
+### Created and Presented by-
+
+Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+
+Location: India
